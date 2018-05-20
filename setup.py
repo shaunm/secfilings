@@ -3,7 +3,7 @@ with open('README.md') as f:
     long_description = f.read()
 
 setup(name='secfilings',
-      version='0.2',
+      version='0.4',
       description='A simple utility to get some SEC forms for companies that file.',
       long_description=long_description,
       long_description_content_type='text/markdown',  
