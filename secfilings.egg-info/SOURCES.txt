@@ -1,0 +1,8 @@
+setup.py
+secfilings/__init__.py
+secfilings.egg-info/PKG-INFO
+secfilings.egg-info/SOURCES.txt
+secfilings.egg-info/dependency_links.txt
+secfilings.egg-info/not-zip-safe
+secfilings.egg-info/requires.txt
+secfilings.egg-info/top_level.txt
